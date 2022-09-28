@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @31xSavage
-- 📫 How to reach me... You can't.
+- 👋 Klk gantel
 
 <!---
 31xSavage/31xSavage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
